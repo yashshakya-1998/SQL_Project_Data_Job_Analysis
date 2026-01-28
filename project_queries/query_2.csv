@@ -1,0 +1,67 @@
+job_id,job_title, salary_year_avg ,skills
+552322,Associate Director- Data Insights," $255,830 ",sql
+552322,Associate Director- Data Insights," $255,830 ",python
+552322,Associate Director- Data Insights," $255,830 ",r
+552322,Associate Director- Data Insights," $255,830 ",azure
+552322,Associate Director- Data Insights," $255,830 ",databricks
+552322,Associate Director- Data Insights," $255,830 ",aws
+552322,Associate Director- Data Insights," $255,830 ",pandas
+552322,Associate Director- Data Insights," $255,830 ",pyspark
+552322,Associate Director- Data Insights," $255,830 ",jupyter
+552322,Associate Director- Data Insights," $255,830 ",excel
+552322,Associate Director- Data Insights," $255,830 ",tableau
+552322,Associate Director- Data Insights," $255,830 ",power bi
+552322,Associate Director- Data Insights," $255,830 ",powerpoint
+99305,"Data Analyst, Marketing"," $232,423 ",sql
+99305,"Data Analyst, Marketing"," $232,423 ",python
+99305,"Data Analyst, Marketing"," $232,423 ",r
+99305,"Data Analyst, Marketing"," $232,423 ",hadoop
+99305,"Data Analyst, Marketing"," $232,423 ",tableau
+1021647,Data Analyst (Hybrid/Remote)," $217,000 ",sql
+1021647,Data Analyst (Hybrid/Remote)," $217,000 ",crystal
+1021647,Data Analyst (Hybrid/Remote)," $217,000 ",oracle
+1021647,Data Analyst (Hybrid/Remote)," $217,000 ",tableau
+1021647,Data Analyst (Hybrid/Remote)," $217,000 ",flow
+168310,Principal Data Analyst (Remote)," $205,000 ",sql
+168310,Principal Data Analyst (Remote)," $205,000 ",python
+168310,Principal Data Analyst (Remote)," $205,000 ",go
+168310,Principal Data Analyst (Remote)," $205,000 ",snowflake
+168310,Principal Data Analyst (Remote)," $205,000 ",pandas
+168310,Principal Data Analyst (Remote)," $205,000 ",numpy
+168310,Principal Data Analyst (Remote)," $205,000 ",excel
+168310,Principal Data Analyst (Remote)," $205,000 ",tableau
+168310,Principal Data Analyst (Remote)," $205,000 ",gitlab
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",sql
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",python
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",azure
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",aws
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",oracle
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",snowflake
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",tableau
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",power bi
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",sap
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",jenkins
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",bitbucket
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",atlassian
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",jira
+731368,"Director, Data Analyst - HYBRID"," $189,309 ",confluence
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",sql
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",python
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",r
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",git
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",bitbucket
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",atlassian
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",jira
+310660,"Principal Data Analyst, AV Performance Analysis"," $189,000 ",confluence
+1749593,Principal Data Analyst," $186,000 ",sql
+1749593,Principal Data Analyst," $186,000 ",python
+1749593,Principal Data Analyst," $186,000 ",go
+1749593,Principal Data Analyst," $186,000 ",snowflake
+1749593,Principal Data Analyst," $186,000 ",pandas
+1749593,Principal Data Analyst," $186,000 ",numpy
+1749593,Principal Data Analyst," $186,000 ",excel
+1749593,Principal Data Analyst," $186,000 ",tableau
+1749593,Principal Data Analyst," $186,000 ",gitlab
+387860,ERM Data Analyst," $184,000 ",sql
+387860,ERM Data Analyst," $184,000 ",python
+387860,ERM Data Analyst," $184,000 ",r
