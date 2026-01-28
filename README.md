@@ -100,13 +100,9 @@ LIMIT 10;
 
 #### 💡 Key Insight
 - SQL is the most essential skill — it appears across almost all roles.
-
 - Python (and Pandas) + R show that analysts are expected to do real data manipulation, not just reporting.
-
 - Tableau highlights strong demand for data visualization and stakeholder communication.
-
 - Snowflake & Azure indicate a clear shift toward cloud-based data analytics.
-
 - Mentions of Bitbucket / Go suggest analyst roles are slowly blending with engineering workflows.
 
 Bottom line:
@@ -141,7 +137,7 @@ ORDER BY top_10_jobs.salary_year_avg DESC;
 ```
 📸 **Result Snapshot:**  
 
-![Query2](project_queries/query_2_capture.png)
+![Query2](project_queries/query_2_capture.PNG)
 ---
 
 ### 📊 Query 2 – Skill Frequency Visualization
@@ -195,8 +191,7 @@ LIMIT 5;
 
 📸 **Result Snapshot:**  
 
-![Query3](project_queries/query_3_capture.png)
-
+![Query3](project_queries/query_3_capture.PNG)
 
 ---
 
@@ -213,15 +208,10 @@ LIMIT 5;
 
 #### 💡 Key Insight
 - Highest-paying skills (PySpark, Bitbucket, Couchbase) are engineering- and infrastructure-heavy, not traditional analyst tools.
-
 - Skills like PySpark, Databricks, Airflow, Kubernetes indicate that big data & data engineering overlap pays more.
-
 - Python ecosystem skills (Pandas, NumPy, Jupyter, scikit-learn) still command strong salaries, showing analytics + ML capability is valued.
-
 - DevOps & tooling skills (GitLab, Jenkins, Linux, Atlassian) boost pay, signaling demand for analysts who can work in production environments.
-
 - Cloud & platform skills (GCP, Databricks) consistently sit above $120k, reinforcing cloud literacy as a salary driver.
-
 - Classic analytics tools (PostgreSQL, MicroStrategy) pay well but less than hybrid/engineering skills.
 
 Bottom line:
@@ -246,7 +236,7 @@ LIMIT 25;
 
 📸 **Result Snapshot:**  
 
-![Query4](project_queries/query_4_capture.png)
+![Query4](project_queries/query_4_capture.PNG)
 
 ---
 
