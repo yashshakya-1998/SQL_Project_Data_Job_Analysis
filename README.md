@@ -203,8 +203,8 @@ LIMIT 5;
 
 #### 🔎 What I did in this query?
 - ⭐ Looked at the avg salary for each skill associated with data analyst position
-- Focused on roles with specified salaries regardless of location
-- Why? It reveals how different skills impavct the salary as it helps identifying the most finacially rewarding skills
+- 🚀 Focused on roles with specified salaries regardless of location
+- ✅ Why? It reveals how different skills impavct the salary as it helps identifying the most finacially rewarding skills
 
 #### 💡 Key Insight
 - 🧱 Skills like PySpark, Databricks, Airflow, Kubernetes indicate that big data & data engineering overlap pays more.
