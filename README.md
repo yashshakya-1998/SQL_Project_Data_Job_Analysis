@@ -79,7 +79,7 @@ LIMIT 10;
 ```
 📸 **Result Snapshot:**  
 
-![Query1](project_queries/query_1_capture.png)
+![Query1](project_queries/query_1_capture.PNG)
 
 
 ---
